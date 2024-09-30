@@ -1,4 +1,4 @@
-# Color Palette Extraction Image Captioning
+# Color Palette Extraction & Image Captioning
 
 ## Project Overview
 
