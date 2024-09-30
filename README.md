@@ -66,4 +66,4 @@ The project explicitly supports Arabic by incorporating the following measures:
    - **Hex Codes**: A list of the hex color codes for each of the extracted colors.
    - Example: `#00aaff`, `#ffaa00`, `#228b22`, etc.
   
-## Hugging Face space: [space](https://huggingface.co/spaces/ayajoharji/Color_PaletteExtraction_and_ImageCaptioning)
+## Hugging Face space: [Link to hugging space space](https://huggingface.co/spaces/ayajoharji/Color_PaletteExtraction_and_ImageCaptioning)
