@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to create a web application that extracts a color palette from an uploaded image and generates a bilingual caption (in both English and Arabic) that describes the image. The application leverages Hugging Face pipelines for image captioning and translation, combined with a user-friendly interface built using Gradio.
+This project aims to create a tool that extracts a color palette from an uploaded image and generates a bilingual caption (in both English and Arabic) that describes the image. The tool leverages Hugging Face pipelines for image captioning and translation, combined with a user-friendly interface built using Gradio.
 
 ### Motivation
 
@@ -25,7 +25,7 @@ The idea behind this project is to simplify the process of analyzing and describ
 4. **User-Friendly Interface**:
    - Gradio is used to create an intuitive web-based interface that allows users to easily upload images, generate captions, and extract color palettes.
 
-## Technology Stack
+## Toolset
 
 - **Python**: Programming language used for building the application.
 - **Hugging Face Transformers**: Provides pre-trained models for image captioning and translation.
@@ -67,7 +67,7 @@ The project explicitly supports Arabic by incorporating the following measures:
    - Example: `#00aaff`, `#ffaa00`, `#228b22`, etc.
   
 ## Hugging Face space: [Link to hugging face space](https://huggingface.co/spaces/ayajoharji/Color_PaletteExtraction_and_ImageCaptioning)
-
+## Slides are available and uploaded in git hub files section
 ## Vedio link explaining the code:
 [part 1](https://www.loom.com/share/52bfda38aa3140788271abb66c9e6517?sid=0bdac0d8-b607-4c84-8e44-7dee7a34b67d)
 [part 2](https://www.loom.com/share/2d1109f795804b63926e5eb9e0ae860e?sid=d712c1fc-4695-4886-a701-c21089da5218)
