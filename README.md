@@ -8,6 +8,30 @@ This project aims to create a tool that extracts a color palette from an uploade
 
 The idea behind this project is to simplify the process of analyzing and describing images. It combines the visual aspect of color extraction, which can assist designers and artists in choosing color schemes, with descriptive captions that enhance image understanding. The inclusion of Arabic language support helps ensure accessibility for a broader audience, particularly Arabic speakers.
 
+## Project Files Overview
+This repository contains the following files:
+
+Color-Palette-Extraction-and-Image-Captioning (2).pdf:
+This PDF contains the presentation slides for the project. The slides provide an overview of the project, including objectives, pipeline implementation, results, and relevant links to the GitHub repository and Hugging Face space.
+
+Color_Palette_Extraction_&_Image_Captioning_Tfp (4).ipynb:
+A Jupyter notebook that includes the complete implementation of the project. It showcases how to extract a color palette from an uploaded image, generate a descriptive caption in both English and Arabic, and visualize the results using the Hugging Face models and Gradio.
+
+README.md:
+The main documentation for the project, detailing the project's objectives, motivation, features, tools used, and instructions for setting up and running the code.
+
+app (2).py:
+A Python script containing the code to run the Gradio interface for the project. This script can be used to launch the web application for image captioning and color palette extraction.
+
+requirements (1).txt:
+A text file listing all the Python dependencies required to run the project. Use this file to install the necessary packages by running pip install -r requirements (1).txt.
+
+runtime (1).txt:
+Contains runtime information
+
+LICENSE:
+Contains the license information for the project, specifying how others can use or modify the code.
+
 ## Features
 
 1. **Color Palette Extraction**:
