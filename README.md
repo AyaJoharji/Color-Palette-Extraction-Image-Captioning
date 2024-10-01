@@ -67,3 +67,8 @@ The project explicitly supports Arabic by incorporating the following measures:
    - Example: `#00aaff`, `#ffaa00`, `#228b22`, etc.
   
 ## Hugging Face space: [Link to hugging face space](https://huggingface.co/spaces/ayajoharji/Color_PaletteExtraction_and_ImageCaptioning)
+
+## Vedio link explaining the code:
+[part 1](https://www.loom.com/share/52bfda38aa3140788271abb66c9e6517?sid=0bdac0d8-b607-4c84-8e44-7dee7a34b67d)
+[part 2](https://www.loom.com/share/2d1109f795804b63926e5eb9e0ae860e?sid=d712c1fc-4695-4886-a701-c21089da5218)
+                                   
